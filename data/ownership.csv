@@ -1,0 +1,14 @@
+ownership_id,target_asset,owner_entity,stake_pct,ownership_type,country,source_id,target_entity_id,owner_entity_id
+O001,PT Teknologi Data Infrastruktur,PT Telkom Data Ekosistem,61,Direct Shareholder,Indonesia,"S001, S002, S003",E013,E003
+O002,PT Teknologi Data Infrastruktur,Nxera ID Pte. Ltd.,35.6,Direct Shareholder,Singapore,"S001, S002, S003",E013,E008
+O003,PT Teknologi Data Infrastruktur,PT Medco Power Indonesia,3.2,Direct Shareholder,Indonesia,"S001, S002, S003",E013,E012
+O004,PT BWDIGITAL INFRA INDONESIA,TBD / not publicly verified,,TBD / not publicly verified,Singapore,,E017,
+O005,PT Jawa Satu Power,PT Pertamina Power Indonesia,40,Direct Shareholder,Indonesia,"S020, S021, S022",E026,E020
+O006,PT Jawa Satu Power,Garuda Power Holdings B.V.,40,Direct Shareholder,Netherlands,"S020, S021, S022",E026,E023
+O007,PT Jawa Satu Power,Sojitz Global Investment B.V.,20,Direct Shareholder,Netherlands,"S020, S021, S022",E026,E025
+O008,PT Tower Bersama Infrastructure Tbk,Bersama Digital Infrastructure Asia Pte. Ltd.,81.29,Direct Shareholder,Singapore,S026,E042,E041
+O009,PT Tower Bersama Infrastructure Tbk,PT Wahana Anugerah Sejahtera,9.37,Direct Shareholder,Indonesia,S026,E042,E039
+O010,PT Jasamarga Transjawa Tol,PT Jasa Marga (Persero) Tbk,65,Direct Shareholder,Indonesia,S039,E063,E043
+O011,PT Jasamarga Transjawa Tol,PT Metro Pacific Tollways Indonesia Services,20.3,Direct Shareholder,Indonesia,S039,E063,E052
+O012,PT Jasamarga Transjawa Tol,Warrington Investment Pte. Ltd.,10.47,Direct Shareholder,Singapore,S039,E063,E057
+O013,PT Jasamarga Transjawa Tol,PT Margautama Nusantara,4.4,Direct Shareholder,Indonesia,S039,E063,E062

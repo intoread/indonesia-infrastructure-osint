@@ -1,0 +1,6 @@
+asset_id,asset_name,sector,location,operator,operating_entity,status,capacity,foreign_link,foreign_country,source_id,operating_entity_id
+A001,NeutraDC Nxera,Data Centre,Batam,PT Telkom Data Ekosistem,PT Teknologi Data Infrastruktur,Ongoing,TBD / not publicly determined,"35.6% stake Nxera ID Pte. Ltd., subsidiary of Singtel; KKR co. inc. also has a stake through the parent of Nxera ID Pte. Ltd.","Singapore, U.S.A.","S001, S002, S003",E013
+A002,BW Digital NDP1,Data Centre,Batam,BW Digital,PT BWDIGITAL INFRA INDONESIA,Ongoing,"42 MW, 144 MW planned",Developer / owner relationship; equity % unverified,"Singapore, Bermuda","S004, S005",E017
+A003,Jawa Satu Power,Power Plant,Karawang,Jawa Satu Power,PT Jawa Satu Power,Operating,1760 MW,"Marubeni (40%), Sojitz (20%)",Japan,"S020, S021, S022",E026
+A004,Tower Bersama Tower Portfolio,Telcom Tower,Indonesia,PT Tower Bersama Infrastructure Tbk,PT Tower Bersama Infrastructure Tbk,Operating,24321 Telecom Sites,Singaporean holding vehicles + Macquarie Group Limited,"Singapore, Australia","S026, S029",E042
+A005,Transjawa Toll Road,Toll Road and Facilities,Java,PT Jasamarga Transjawa Tol,PT Jasamarga Transjawa Tol,Operating,~676 km toll road,"Philippine & Hong Kong Backed MPIC, Singapore sovereign wealth fund, Japan Government throguh a consortium","Japan, Philippines, Hong Kong, Singapore","S039, S044",E063
