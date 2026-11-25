@@ -12,7 +12,7 @@ An asset-first open-source intelligence (OSINT) mapping of corporate ownership c
 
 ## Executive Summary
 
-Headline foreign direct investment (FDI) statistics rarely reveal the beneficial owners sitting behind multi-tiered offshore holding vehicles. This repository traces five Indonesian infrastructure assets backward from their physical facilities and local operating companies to their direct shareholders and ultimate upstream parents, using primary sources.
+Headline foreign investment statistics rarely reveal the corporate ownership structures behind infrastructure assets. This project traces five Indonesian infrastructure assets through their operating companies, direct shareholders, intermediate holding vehicles, and identifiable upstream parents, distinguishing verified links from reconstructed stakes and unresolved ownership gaps.
 
 | Asset (Location) | Sector | Operating Entity | Indonesian Owners | Foreign Ultimate Owners | Holding Jurisdictions |
 | :--- | :--- | :--- | :--- | :--- | :--- |
